@@ -1,4 +1,4 @@
-"""The given code is used to generate an n-digit number from a list of n-digits
+"""The given code is used to generate an n-digit number from a list of n-one digit numbers
     For example: for an input list of [8,3,1,0], the program outputs the integer number 8310"""
 
 
